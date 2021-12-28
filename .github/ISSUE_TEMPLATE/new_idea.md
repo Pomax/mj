@@ -1,6 +1,6 @@
 ---
-name: New idea
-about: Suggest an idea
+name: Suggest a new idea
+about: For when you thought of something that's currently missing
 title: ''
 labels: enhancement
 assignees: Pomax
